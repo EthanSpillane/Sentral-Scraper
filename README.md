@@ -1,2 +1,2 @@
 # Sentral-Scraper
-A scraper for the Sentral timetable platform that I worked on a year ago
+A scraper for the Sentral timetable that I worked on in high school
